@@ -1,1 +1,1 @@
-SmartVRPark
+SmartVrPark est un projet Win2Wal mené par l'Université de Mons (Belgique)
